@@ -1,0 +1,21 @@
+{
+  "name": "shahbaz-labs",
+  "version": "1.0.0",
+  "description": "Shahbaz Labs - Building AI & Web Applications",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "preview": "npx http-server -p 3000"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "portfolio",
+    "ai",
+    "web-development"
+  ],
+  "author": "Shahbaz Labs",
+  "license": "MIT"
+}
